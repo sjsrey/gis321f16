@@ -1,16 +1,17 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part I](content/partI/README.md)
 
-    * [Setting up](ipynb_md/11_setup.md)
-    * [Shells](ipynb_md/12_shells.md)
+### Part I 
 
-* [Part II](content/partII/README.md)
+* [Setting up](ipynb_md/11_setup.md)
+* [Shells](ipynb_md/12_shells.md)
 
-    * [Python](ipynb_md/21_python.md)
+### Part II
 
-* [Part III](content/partIII/README.md)
+* [Python](ipynb_md/21_python.md)
 
-    * [numpy](ipynb_md/31_numpy.md)
+### Part III
+
+* [numpy](ipynb_md/31_numpy.md)
 
