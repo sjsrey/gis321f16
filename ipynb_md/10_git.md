@@ -20,7 +20,7 @@ From their [website](https://guides.github.com/activities/hello-world/)
 
 Let's let [Kris Shaffer](http://kris.shaffermusic.com/) tell us why:
 
-[![ks](figures/00_ks.png)](http://kris.shaffermusic.com/githubforacademics)
+[![figure](figures/00_ks.png)](http://kris.shaffermusic.com/githubforacademics)
 
 Source: http://kris.shaffermusic.com/githubforacademics
 
