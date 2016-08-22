@@ -92,7 +92,7 @@ All readings are from the How to Think Like a Computer Scientist text unless not
 | Week  | Date | Topics | Readings | Assigned| Due |
 |--------|----|--------|----------|---------|-----|
 | 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | [C1][C1], [C6][C6] | [E0 GitHub]((ipynb_md/10_git.html)| |
-| 2      | 8.29 | Software installation, shells, git local | shells [C2][C2], [C3][C3] | E1 Shells| E0 |
+| 2      | 8.29 | Software installation, shells, git local | [Install All][Install], [Install Windows][Windows], [Install Mac][Mac], [C2][C2], [C3][C3] | E1 Shells| E0 |
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | git distributed, git Collaboration  |[C4][C4], [C5][C5], [C6][C6]  | E2 git collaboration| E1 |
 | 4      | 9.19 | Python Introduction, Test Driven Development  | [WP][WP], [W1][W1]  | E3 Testing| E2 |
@@ -163,3 +163,6 @@ This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http:/
 [C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
+[Install]: https://ucsdlib.github.io/2016-07-18-UCSD/
+[Mac]: https://www.youtube.com/watch?v=TcSAln46u9U
+[Windows]: https://www.youtube.com/watch?v=339AEqk9c-8&app=desktop
