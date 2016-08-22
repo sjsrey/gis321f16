@@ -1,5 +1,5 @@
 
-# Introduction to git and GitHub
+# Introduction to  GitHub
 
 Since this is our first meeting, the hands-on portion of the session will provide an overview of GitHub. The instructor will be doing the driving and the students can follow along on the lab computers. Next week you will install all the software for the course on your own laptop and the sessions will consist of you doing live coding.
 
@@ -8,7 +8,7 @@ In this first session, we introduce GitHub and cover:
 
 * What is GitHub
 * Why use GitHub
-* How to get started on your own
+* Hands on with GitHub (Exercise)
 
 ## What is GitHub
 
@@ -16,11 +16,19 @@ From their [website](https://guides.github.com/activities/hello-world/)
 
 ![githubintro](figures/00_ghintro.png)
 
-## Why use GitHub
+## Why use GitHub?
 
-![figure](figures/00_sjr.png)
+Let's let [Kris Shaffer](http://kris.shaffermusic.com/) tell us why:
 
-## How to get started with GitHub
+[![ks](figures/00_ks.png)](http://kris.shaffermusic.com/githubforacademics)
+
+Source: http://kris.shaffermusic.com/githubforacademics
+
+How does the instructor use Github?
+
+[![figure](figures/00_sjr.png)](https://github.com/sjsrey)
+
+Source: https://github.com/sjsrey
 
 ## BitBucket
 

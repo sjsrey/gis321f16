@@ -155,6 +155,16 @@ Students violating these rules may be asked to leave the course, and their viola
 
 This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http://scipy2016.scipy.org/ehome/146062/388087/).
 
+** License **
+
+All the software we will be using in this course falls under an [open source
+license][license].  Additionally, we build on the shoulders of many giants in this course
+and will be adapting materials from the [Software Carpentry][sc] project that has
+generously provided instructural materials under a [Creative Commons Attribution
+License][CCAL].
+
+All materials associated with this course are placed under the [Creative Commons Attribution License][CCAL].
+
 [C1]: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 [C2]: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 [C3]: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
@@ -163,6 +173,9 @@ This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http:/
 [C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
+[license]: https://opensource.com/resources/what-open-source
 [Install]: https://ucsdlib.github.io/2016-07-18-UCSD/
 [Mac]: https://www.youtube.com/watch?v=TcSAln46u9U
 [Windows]: https://www.youtube.com/watch?v=339AEqk9c-8&app=desktop
+[sc]: http://software-carpentry.org/license/
+[CCAL]: https://creativecommons.org/licenses/by/4.0/
