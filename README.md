@@ -20,31 +20,17 @@
 
 **Course description:**
 
-Contemporary research in analytical geography has placed an increasing
-demand on the computational skills of its practitioners. The advances in
-spatial data analysis and geographical modeling have also largely
-out-paced the capabilities of standard statistical software. At the same
-time, the multidisciplinary nature of the spatial sciences often
-translates into the need to deal with disparate data sources, formats
-and programming languages. As such, students undertaking research are
-often confronted with a daunting set of tasks that are seldom covered in
-an integrated fashion in course work. This course is designed to address
-this situation.
+Contemporary research in analytical geography has placed an increasing demand on the computational skills of its practitioners. The advances in spatial data analysis and geographical modeling have also largely out-paced the capabilities of standard statistical software. At the same time, the multidisciplinary nature of the spatial sciences often translates into the need to deal with disparate data sources, formats and programming languages. As such, students undertaking research are often confronted with a daunting set of tasks that are seldom covered in an integrated fashion in course work. This course is designed to address this situation.
 
 
 
 **Course learning outcomes:**
 
-* Introduce geography students to basic computational concepts using
-Python, an object-oriented scripting language, for data processing,
-analysis and application development in geographic research.
+* Introduce geography students to basic computational concepts using Python, an object-oriented scripting language, for data processing, analysis and application development in geographic research.
 
-* Familiarize students with the fundamental tools used in collaborative
-programming and research projects in an open source and cross-platform
-environment.
+* Familiarize students with the fundamental tools used in collaborative programming and research projects in an open source and cross-platform environment.
 
-* Provide students with skill sets that are in high demand within academic
-GIScience and commercial GIS development.
+* Provide students with skill sets that are in [high demand](https://vimeo.com/93278530) within academic GIScience and commercial GIS development.
 
 ---
 
