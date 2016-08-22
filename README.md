@@ -86,8 +86,7 @@ Other readings to be assigned.
 
 ---
 
-**Weekly activities**
-All readings are from the How to Think Like a Computer Scientist text unless noted, e.g. with a `Git Ch1` descriptor.
+**Schedule**
 
 | Week  | Date | Topics | Readings | Assigned| Due |
 |--------|----|--------|----------|---------|-----|
