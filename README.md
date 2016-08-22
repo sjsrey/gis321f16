@@ -135,7 +135,7 @@ required. Disability information is confidential.
 
 **Code of Conduct**
 
-As course instructor, I am dedicated dedicated to providing a harassment-free
+As course instructor, I am dedicated to providing a harassment-free
 learning experience for all students, regardless of gender, sexual orientation,
 disability, physical appearance, body size, race, religion, or choice of
 operating system.  All course participants are expected to show respect and
