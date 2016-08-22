@@ -6,6 +6,8 @@
 
 **Instructor**: Sergio Rey
 
+**Office**: Coor Hall 5612
+
 **Office hours**: Tuesdays 2-3 or by appointment
 
 **Email**: srey@asu.edu
@@ -55,7 +57,7 @@ Grading in the course will be based on the following point system:
 
 | **Component**                        | **Points**                           |
 |--------------------------------------|--------------------------------------|
-| 9 Exercises                          | 360                                  |
+| Exercises                            | 360                                  |
 | Exam 1                               | 120                                  |
 | Exam 2                               | 220                                  |
 | Exam 3                               | 300                                  |
@@ -72,14 +74,13 @@ Grading in the course will be based on the following point system:
 **Required and recommended readings:**
 
 
+W: Wentworth, P., et al. (2012) *How to Think Like a Computer
+Scientist: Learning with Python 3. OpenBookProject* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/).
+Denoted as **W** in schedule.
 
-Wentworth, P., et al. (2012) *How to Think Like a Computer
-Scientist: Learning with Python 3. OpenBookProject* [How to Think Like a Computer Scientist](http://openbookproject.net/thinkcs/python/english3e/)
 
-Percival, H. (2014) *Test-Driven Development with Python. O'Reilly, Sebastopol.*
-[Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
-
-Chacon, S. and Straub, B. (2014) *Pro Git.* [Git: Distributed Even if Your Workflow Isn't](https://git-scm.com/book/en/v2)
+Chacon, S. and Straub, B. (2014) *Pro Git.* [Git: Distributed Even if Your Workflow Isn't](https://git-scm.com/book/en/v2).
+Denoted as **C** in schedule.
 
 Other readings to be assigned.
 
@@ -90,11 +91,11 @@ All readings are from the How to Think Like a Computer Scientist text unless not
 
 | Week  | Date | Topics | Readings | Assigned| Due |
 |--------|----|--------|----------|---------|-----|
-| 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | `Git Ch` | E0 GitHub| |
-| 2      | 8.29 | Software installation, shells, git local | shells | E1 Shells| E0 |
+| 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | [C1][C1], [C6][C6] | [E0 GitHub]((ipynb_md/10_git.html)| |
+| 2      | 8.29 | Software installation, shells, git local | shells [C2][C2], [C3][C3] | E1 Shells| E0 |
 |        | 9.05 | Labor Day Holiday      | | | |
-| 3      | 9.12 | git distributed, git Collaboration  |  | E2 git collaboration| E1 |
-| 4      | 9.19 | Python Introduction, Test Driven Development  |  | E3 Testing| E2 |
+| 3      | 9.12 | git distributed, git Collaboration  |[C4][C4], [C5][C5], [C6][C6]  | E2 git collaboration| E1 |
+| 4      | 9.19 | Python Introduction, Test Driven Development  | [WP][WP], [W1][W1]  | E3 Testing| E2 |
 | 5      | 9.26 | Continuous integration, Operators-operands  |  | Exam 1 | E3 |
 | 6      | 10.03 | Sequences, Dictionaries, Sets  |  | E4 | Exam 1 |
 |        | 10.10 | Fall Break  |  |  |  |
@@ -153,3 +154,12 @@ jokes are not appropriate for GIS321.
 Students violating these rules may be asked to leave the course, and their violations will be reported to the ASU administration.
 
 This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http://scipy2016.scipy.org/ehome/146062/388087/).
+
+[C1]: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+[C2]: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+[C3]: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+[C4]: https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols
+[C5]: https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
+[C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
+[WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
+[W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
