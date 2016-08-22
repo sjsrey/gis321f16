@@ -30,7 +30,7 @@ Contemporary research in analytical geography has placed an increasing demand on
 
 * Familiarize students with the fundamental tools used in collaborative programming and research projects in an open source and cross-platform environment.
 
-* Provide students with skill sets that are in [high demand](https://vimeo.com/93278530) within academic GIScience and commercial GIS development.
+* Provide students with [skill sets](http://www.directionsmag.com/entry/gis-jobs-of-today-should-you-have-programming-skills/473296) that are in [high demand](https://vimeo.com/93278530) within academic GIScience and commercial GIS development.
 
 ---
 
