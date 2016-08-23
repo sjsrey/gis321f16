@@ -129,7 +129,7 @@ courtesy to other students  throughout the semester.  As a learning community
 we do not tolerate harassment of participants in any form.
 
 All communication should be appropriate for a professional audience including
-people of many different backgrounds. Sexual language and imagery is not
+people of many different backgrounds. Sexual language and imagery are not
 appropriate in this course.
 
 Be kind to others. Do not insult or put down other students. Behave
