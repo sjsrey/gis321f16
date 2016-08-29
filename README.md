@@ -77,7 +77,7 @@ Other readings to be assigned.
 | Week  | Date | Topics | Readings | Assigned| Due |
 |--------|----|--------|----------|---------|-----|
 | 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | [C1][C1], [C6][C6] | [E0 GitHub]((ipynb_md/10_git.html)| |
-| 2      | 8.29 | Software installation, shells, git local | [Install All][Install], [Install Windows][Windows], [Install Mac][Mac], [C2][C2], [C3][C3] | E1 Shells| E0 |
+| 2      | 8.29 | Software installation, [shells][shells], git local | [Install All][Install], [Install Windows][Windows], [Install Mac][Mac], [C2][C2], [C3][C3] | E1 Shells| E0 |
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | git distributed, git collaboration  |[C4][C4], [C5][C5], [C6][C6]  | E2 git collaboration| E1 |
 | 4      | 9.19 | Python Introduction, Test Driven Development  | [WP][WP], [W1][W1]  | E3 Testing| E2 |
@@ -163,4 +163,5 @@ All materials associated with this course are placed under the [Creative Commons
 [Mac]: https://www.youtube.com/watch?v=TcSAln46u9U
 [Windows]: https://www.youtube.com/watch?v=339AEqk9c-8&app=desktop
 [sc]: http://software-carpentry.org/license/
+[shells]: content/partI/shells.html
 [CCAL]: https://creativecommons.org/licenses/by/4.0/
