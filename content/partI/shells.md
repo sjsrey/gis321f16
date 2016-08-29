@@ -350,7 +350,7 @@ $ grep 'Tonga' data.csv
 5879,Kaufana Airport,Eua Island,Tonga,EUA,NFTE,-21.3783,-174.958,325,13,U
 ```
 
-Find all airports with aiport_ids in the range 2980-2989:
+Find all airports with airport_ids in the range 2980-2989:
 ```
 bash-3.2$ grep '^298[0-9]' data.csv
 2980,Bukhara,Bukhara,Uzbekistan,BHK,UTSB,39.775,64.483333,751,5,U
@@ -365,7 +365,7 @@ bash-3.2$ grep '^298[0-9]' data.csv
 bash-3.2$
 ```
 
-Find all aiports with aiport_ids that do not fall in the range 2980-2989:
+Find all airports with airport_ids that do not fall in the range 2980-2989:
 
 ```
 bash-3.2$ grep -v '^298[0-9]' data.csv > nomatch
@@ -426,9 +426,9 @@ This exercise uses the airport data introduced above. To complete your assignmen
 
 1. How many unique countries are in the data set?
 2. How many unique cities are in the data set?
-3. How would you create a new file called `sorted_lat.csv` that ordered the aiports from most northern to most southern?
-4. Find the following aiports:
-	- The western most aiport in the northern hemisphere
-	- The western most aiport in the southern hemisphere
-	- The southern most aiport in the western hemisphere
+3. How would you create a new file called `sorted_lat.csv` that ordered the airports from most northern to most southern?
+4. Find the following airports:
+	- The western most airport in the northern hemisphere
+	- The western most airport in the southern hemisphere
+	- The southern most airport in the western hemisphere
 	- The northern most airport in the eastern hemisphere
