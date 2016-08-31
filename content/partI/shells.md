@@ -405,8 +405,7 @@ $ awk -F ',' '{if ($8< 0) print $0}' data.csv | wc -l
 Average longitude
 
 ```
-$ awk -F ',' '{ sum += $8; n++ } END { if (n > 0) print sum / n; }'
-data.csv
+$ awk -F ',' '{ sum += $8; n++ } END { if (n > 0) print sum / n; }' data.csv
 -2.97749
 ```
 
@@ -414,8 +413,7 @@ data.csv
 Average latitude
 
 ```
-$ awk -F ',' '{ sum += $7; n++ } END { if (n > 0) print sum / n; }'
-data.csv
+$ awk -F ',' '{ sum += $7; n++ } END { if (n > 0) print sum / n; }' data.csv
 25.9022
 ```
 
