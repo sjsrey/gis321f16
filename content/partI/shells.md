@@ -391,14 +391,14 @@ $ grep 'Canada' data.csv  | wc -l
 
 How many airports are in the western hemisphere?
 ```
-$ awk -F ',' '{if ($7 < 0) print $0}' data.csv | wc -l
-    1406
+$ awk -F ',' '{if ($8 < 0) print $0}' data.csv | wc -l
+    3210
 ```
 
 How many are in the southern hemisphere?
 ```
-$ awk -F ',' '{if ($8< 0) print $0}' data.csv | wc -l
-    3210
+$ awk -F ',' '{if ($7< 0) print $0}' data.csv | wc -l
+    1406
 ```
 
 
