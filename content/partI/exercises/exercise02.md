@@ -4,7 +4,7 @@ For this exercise you will become familiar with a common distributed work flow u
 
 Instructions
 
-1. Fork the [colloaborary](https://github.com/sjsrey/gis321f16collaboratory) repos for the course
+1. Fork the [collaboratory](https://github.com/sjsrey/gis321f16collaboratory) repos for the course
 2. Clone your fork.
 3. Discuss how we should work collaboratively to generate the best solutions to exercise 01.
 4. For credit on this exercise, each student must do at least one of the following:
