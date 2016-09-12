@@ -156,7 +156,7 @@ All materials associated with this course are placed under the [Creative Commons
 [C4]: https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols
 [C5]: https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 [C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
-[e2]: 
+[e2]: content/partI/exercises/exercise02.md 
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
