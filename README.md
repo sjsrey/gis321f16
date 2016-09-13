@@ -142,11 +142,7 @@ This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http:/
 
 **License**
 
-All the software we will be using in this course falls under an [open source
-license][license].  Additionally, we build on the shoulders of many giants in this course
-and will be adapting materials from the [Software Carpentry][sc] project that has
-generously provided instructural materials under a [Creative Commons Attribution
-License][CCAL].
+All the software we will be using in this course falls under an [open source license][license].  Additionally, we build on the shoulders of many giants in this course and will be adapting materials from the [Software Carpentry][sc] project that has generously provided instructional materials under a [Creative Commons Attribution License][CCAL].
 
 All materials associated with this course are placed under the [Creative Commons Attribution License][CCAL].
 
