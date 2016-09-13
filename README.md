@@ -140,7 +140,7 @@ Students violating these rules may be asked to leave the course, and their viola
 
 This code of conduct is an adaptation of the [SciPy 2016 Code of Conduct](http://scipy2016.scipy.org/ehome/146062/388087/).
 
-** License **
+**License**
 
 All the software we will be using in this course falls under an [open source
 license][license].  Additionally, we build on the shoulders of many giants in this course
