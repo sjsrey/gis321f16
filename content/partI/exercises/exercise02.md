@@ -4,6 +4,12 @@ For this exercise you will become familiar with a common distributed work flow u
 
 Instructions
 
+
+
+
+
+
+1. Set up ssh authentication on github following these [instructions][keys].
 1. Fork the [collaboratory](https://github.com/sjsrey/gis321f16collaboratory) repos for the course
 2. Clone your fork.
 3. Discuss how we should work collaboratively to generate the best solutions to exercise 01.
@@ -12,3 +18,5 @@ Instructions
    2. Add constructive comments on a pull request for exercise 01
 5. Finally, each student must use the git workflow to maintain the `upstream-local-origin-upstream` flow going in the proper direction.
 
+
+[keys]: https://help.github.com/articles/generating-an-ssh-key/
