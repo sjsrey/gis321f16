@@ -76,7 +76,7 @@ Other readings to be assigned.
 
 | Week  | Date | Topics | Readings | Assigned| Due |
 |--------|----|--------|----------|---------|-----|
-| 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | [C1][C1], [C6][C6] | [E0 GitHub]((ipynb_md/10_git.html)| |
+| 1      | 8.22 | Course Introduction, [Intro to github](ipynb_md/10_git.html) | [C1][C1], [C6][C6] | [E0 GitHub](ipynb_md/10_git.html)| |
 | 2      | 8.29 | Software installation, [shells][shells], git local | [Install All][Install], [Install Windows][Windows], [Install Mac][Mac], [C2][C2], [C3][C3] | E1 Shells| E0 |
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | git distributed, git collaboration  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
@@ -121,20 +121,11 @@ required. Disability information is confidential.
 
 **Code of Conduct**
 
-As course instructor, I am dedicated to providing a harassment-free
-learning experience for all students, regardless of gender, sexual orientation,
-disability, physical appearance, body size, race, religion, or choice of
-operating system.  All course participants are expected to show respect and
-courtesy to other students  throughout the semester.  As a learning community
-we do not tolerate harassment of participants in any form.
+As course instructor, I am dedicated to providing a harassment-free learning experience for all students, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or choice of operating system.  All course participants are expected to show respect and courtesy to other students  throughout the semester.  As a learning community we do not tolerate harassment of participants in any form.
 
-All communication should be appropriate for a professional audience including
-people of many different backgrounds. Sexual language and imagery are not
-appropriate in this course.
+All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery are not appropriate in this course.
 
-Be kind to others. Do not insult or put down other students. Behave
-professionally. Remember that harassment and sexist, racist, or exclusionary
-jokes are not appropriate for GIS321.
+Be kind to others. Do not insult or put down other students. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate for GIS321.
 
 Students violating these rules may be asked to leave the course, and their violations will be reported to the ASU administration.
 
