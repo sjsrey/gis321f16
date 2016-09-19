@@ -80,7 +80,7 @@ Other readings to be assigned.
 | 2      | 8.29 | Software installation, [shells][shells] | [Install All][Install], [Install Windows][Windows], [Install Mac][Mac], [C2][C2], [C3][C3] | E1 Shells| E0 |
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | [git I][git I]  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
-| 4      | 9.19 |  [git II][git II],  [Test Driven Development][travis]  |  | [E3 Testing][E3]| E2 |
+| 4      | 9.19 |  [git II][git II],  [Test Driven Development][tdd]  |[Testing][jltdd]  | [E3 Testing][E3]| E2 |
 | 5      | 9.26 |Python Introduction, Continuous integration, Operators-operands  | [WP][WP], [W1][W1]  | Exam 1 | E3 |
 | 6      | 10.03 | Sequences, Dictionaries, Sets  |  | E4 | Exam 1 |
 |        | 10.10 | Fall Break  |  |  |  |
@@ -147,6 +147,7 @@ All materials associated with this course are placed under the [Creative Commons
 [E3]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise03
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
+[jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
@@ -155,5 +156,6 @@ All materials associated with this course are placed under the [Creative Commons
 [Windows]: https://www.youtube.com/watch?v=339AEqk9c-8&app=desktop
 [sc]: http://software-carpentry.org/license/
 [shells]: content/partI/shells.html
+[tdd]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise03/tests.py
 [travis]: https://docs.travis-ci.com/user/getting-started/
 [CCAL]: https://creativecommons.org/licenses/by/4.0/
