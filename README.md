@@ -81,7 +81,7 @@ Other readings to be assigned.
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | [git I][git I]  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
 | 4      | 9.19 |  [git II][git II],  [Test Driven Development][tdd]  |[Testing][jltdd]  | [E3 Testing][E3]| E2 |
-| 5      | 9.26 |Python Introduction, Continuous integration, Operators-operands  | [WP][WP], [W1][W1]  | Exam 1 | E3 |
+| 5      | 9.26 |Python Introduction,  Operators-operands  | [WP][WP], [W1][W1]  |  | E3 |
 | 6      | 10.03 | Sequences, Dictionaries, Sets  |  | E4 | Exam 1 |
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
