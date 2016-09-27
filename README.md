@@ -81,8 +81,8 @@ Other readings to be assigned.
 |        | 9.05 | Labor Day Holiday      | | | |
 | 3      | 9.12 | [git I][git I]  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
 | 4      | 9.19 |  [git II][git II],  [Test Driven Development][tdd]  |[Testing][jltdd]  | [E3 Testing][E3]| E2 |
-| 5      | 9.26 |Python Introduction,  Operators-operands  | [WP][WP], [W1][W1]  |  | E3 |
-| 6      | 10.03 | Sequences, Dictionaries, Sets  |  | E4 | Exam 1 |
+| 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
+| 6      | 10.03 | [Sequences][seq], Dictionaries, Sets  |  | E4 | Exam 1 |
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
@@ -148,6 +148,8 @@ All materials associated with this course are placed under the [Creative Commons
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
+[op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
+[seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
