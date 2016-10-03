@@ -44,9 +44,8 @@ Grading in the course will be based on the following point system:
 | **Component**                        | **Points**                           |
 |--------------------------------------|--------------------------------------|
 | Exercises                            | 360                                  |
-| Exam 1                               | 120                                  |
-| Exam 2                               | 220                                  |
-| Exam 3                               | 300                                  |
+| Exam 1                               | 220                                  |
+| Exam 2                               | 420                                  |
 | Total                                | 1000                                 |
 
 **Exams** will be based on the readings, discussion forum posts, and exercises. All exams are cumulative.  Late exams will not be accepted.
@@ -82,16 +81,16 @@ Other readings to be assigned.
 | 3      | 9.12 | [git I][git I]  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
 | 4      | 9.19 |  [git II][git II],  [Test Driven Development][tdd]  |[Testing][jltdd]  | [E3 Testing][E3]| E2 |
 | 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
-| 6      | 10.03 | [Sequences][seq], Dictionaries, Sets  |  | E4 | Exam 1 |
+| 6      | 10.03 | [Sequences][seq], Dictionaries, Sets  |  | E4 | |
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 2  | E6  |
-| 10      | 11.07 | Functional programming   |  | E7  | Exam 2  |
+| 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
 | 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
 | 13      | 11.28 | Geospatial Python  |  | Exam 3  | E9  |
-|         | 12.05|    |  |         | Exam 3|
+|         | 12.05|    |  |         | Exam 2|
 
 
 ---
