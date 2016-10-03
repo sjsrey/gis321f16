@@ -83,7 +83,7 @@ Other readings to be assigned.
 | 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
 | 6      | 10.03 | [Sequences][seq], Dictionaries, Sets  |  | E4 | |
 |        | 10.10 | Fall Break  |  |  |  |
-| 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
+| 7      | 10.17 | Controls, Functions, Modules  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
