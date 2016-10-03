@@ -85,11 +85,11 @@ Other readings to be assigned.
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
-| 9      | 10.31 | Composition  |  | Exam 2  | E6  |
+| 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
 | 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
-| 13      | 11.28 | Geospatial Python  |  | Exam 3  | E9  |
+| 13      | 11.28 | Geospatial Python  |  | Exam 2  | E9  |
 |         | 12.05|    |  |         | Exam 2|
 
 
