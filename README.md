@@ -81,9 +81,9 @@ Other readings to be assigned.
 | 3      | 9.12 | [git I][git I]  |[C4][C4], [C5][C5], [C6][C6]  | [E2 git collaboration][e2]| E1 |
 | 4      | 9.19 |  [git II][git II],  [Test Driven Development][tdd]  |[Testing][jltdd]  | [E3 Testing][E3]| E2 |
 | 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
-| 6      | 10.03 | [Sequences][seq], Dictionaries, Sets  |  | E4 | |
+| 6      | 10.03 | [Sequences][seq], [Dictionaries][dict], [Controls][cont]  |  | [E4][cont] | |
 |        | 10.10 | Fall Break  |  |  |  |
-| 7      | 10.17 | Controls, Functions, Modules  |  | E5  | E4  |
+| 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
@@ -149,6 +149,8 @@ All materials associated with this course are placed under the [Creative Commons
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
 [op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
 [seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
+[dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dicts.ipynb
+[cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_cont.ipynb
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
