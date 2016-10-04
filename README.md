@@ -150,7 +150,7 @@ All materials associated with this course are placed under the [Creative Commons
 [op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
 [seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
 [dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dict.ipynb
-[cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
+[cont]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise04/README.md
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
