@@ -149,8 +149,8 @@ All materials associated with this course are placed under the [Creative Commons
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
 [op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
 [seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
-[dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dicts.ipynb
-[cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_cont.ipynb
+[dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dict.ipynb
+[cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
