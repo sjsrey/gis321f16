@@ -83,7 +83,7 @@ Other readings to be assigned.
 | 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
 | 6      | 10.03 | [Sequences][seq], [Dictionaries][dict], [Controls][cont]  |  | [E4][cont] | |
 |        | 10.10 | Fall Break  |  |  |  |
-| 7      | 10.17 | Functions, Modules  |  | E5  | E4  |
+| 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | E5  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
@@ -150,6 +150,8 @@ All materials associated with this course are placed under the [Creative Commons
 [op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
 [seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
 [dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dict.ipynb
+[functions]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_functions.ipynb
+[modules]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_modules.ipynb
 [cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
