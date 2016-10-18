@@ -83,7 +83,7 @@ Other readings to be assigned.
 | 5      | 9.26 |Python Introduction,  [Operators-operands][op]  | [WP][WP], [W1][W1]  |  | E3 |
 | 6      | 10.03 | [Sequences][seq], [Dictionaries][dict], [Controls][cont]  |  | [E4][cont] | |
 |        | 10.10 | Fall Break  |  |  |  |
-| 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | E5  | E4  |
+| 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
 | 8      | 10.24 | Object orientation  |  | E6  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
@@ -144,6 +144,7 @@ All materials associated with this course are placed under the [Creative Commons
 [C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
 [e2]: content/partI/exercises/exercise02.md 
 [E3]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise03
+[E5]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise05
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
