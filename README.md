@@ -153,6 +153,7 @@ All materials associated with this course are placed under the [Creative Commons
 [functions]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_functions.ipynb
 [modules]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_modules.ipynb
 [cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
+[cont]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise04/README.md
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
 [W1]: http://openbookproject.net/thinkcs/python/english3e/way_of_the_program.html
 [license]: https://opensource.com/resources/what-open-source
