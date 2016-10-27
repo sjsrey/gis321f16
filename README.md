@@ -84,7 +84,7 @@ Other readings to be assigned.
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
 | 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
-| 9      | 10.31 | Composition  |  | Exam 1  | E6  |
+| 9      | 10.31 | Recap  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
 | 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
