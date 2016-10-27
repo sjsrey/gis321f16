@@ -2,7 +2,6 @@
 
 ---
 
-**Instructor and contact information:**
 
 **Instructor**: Sergio Rey
 
@@ -84,7 +83,7 @@ Other readings to be assigned.
 | 6      | 10.03 | [Sequences][seq], [Dictionaries][dict], [Controls][cont]  |  | [E4][cont] | |
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
-| 8      | 10.24 | Object orientation  |  | [E6][E6]  | E5  |
+| 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
 | 9      | 10.31 | Composition  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
 | 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
@@ -142,7 +141,7 @@ All materials associated with this course are placed under the [Creative Commons
 [C4]: https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols
 [C5]: https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows
 [C6]: https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration
-[e2]: content/partI/exercises/exercise02.md 
+[e2]: content/partI/exercises/exercise02.md
 [E3]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise03
 [E5]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise05
 [E6]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise06
@@ -154,6 +153,9 @@ All materials associated with this course are placed under the [Creative Commons
 [dict]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_dict.ipynb
 [functions]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_functions.ipynb
 [modules]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lecture_modules.ipynb
+[oo]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/object.ipynb
+[pyproj]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/pyproj.ipynb
+[geojson]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/geojson.ipynb
 [cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
 [cont]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise04/README.md
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
