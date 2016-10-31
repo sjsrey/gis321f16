@@ -84,7 +84,7 @@ Other readings to be assigned.
 |        | 10.10 | Fall Break  |  |  |  |
 | 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
 | 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
-| 9      | 10.31 | Recap  |  | Exam 1  | E6  |
+| 9      | 10.31 | [shapely][shapely], Recap  |  | Exam 1  | E6  |
 | 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
 | 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
@@ -156,6 +156,7 @@ All materials associated with this course are placed under the [Creative Commons
 [oo]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/object.ipynb
 [pyproj]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/pyproj.ipynb
 [geojson]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/geojson.ipynb
+[shapely]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/shapely.ipynb
 [cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
 [cont]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise04/README.md
 [WP]: http://openbookproject.net/thinkcs/python/english3e/preface.html
