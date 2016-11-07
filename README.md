@@ -85,8 +85,8 @@ Other readings to be assigned.
 | 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
 | 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
 | 9      | 10.31 | [shapely][shapely], Recap  |  | Exam 1  | E6  |
-| 10      | 11.07 | Functional programming   |  | E7  | Exam 1  |
-| 11      | 11.14 | NumPy and SciPy   |  | E8  | E7  |
+| 10      | 11.07 | [NumPy][numpy]   |  | [E7][E7]  | Exam 1  |
+| 11      | 11.14 |  SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
 | 13      | 11.28 | Geospatial Python  |  | Exam 2  | E9  |
 |         | 12.05|    |  |         | Exam 2|
@@ -145,6 +145,7 @@ All materials associated with this course are placed under the [Creative Commons
 [E3]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise03
 [E5]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise05
 [E6]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise06
+[E7]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise07
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
@@ -156,6 +157,7 @@ All materials associated with this course are placed under the [Creative Commons
 [oo]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/object.ipynb
 [pyproj]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/pyproj.ipynb
 [geojson]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/geojson.ipynb
+[numpy]: http://www.scipy-lectures.org/intro/numpy/index.html
 [shapely]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/shapely.ipynb
 [cont]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/lect_conditionals.ipynb
 [cont]: https://github.com/sjsrey/gis321f16collaboratory/blob/master/exercise04/README.md
