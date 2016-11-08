@@ -146,7 +146,7 @@ All materials associated with this course are placed under the [Creative Commons
 [E5]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise05
 [E6]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise06
 [E7]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise07
-[E7 hints]: https://github.com/jlaura/GIS321/blob/master/condent/partI/numpy.ipynb
+[E7 hints]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/numpy.ipynb
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
