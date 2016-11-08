@@ -85,7 +85,7 @@ Other readings to be assigned.
 | 7      | 10.17 | [Functions][functions], [Modules][modules]  |  | [E5][E5]  | E4  |
 | 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
 | 9      | 10.31 | [shapely][shapely], Recap  |  | Exam 1  | E6  |
-| 10      | 11.07 | [NumPy][numpy]   |  | [E7][E7]  | Exam 1  |
+| 10      | 11.07 | [NumPy][numpy]   |  | [E7][E7], [E7 hints][E7 hints]  | Exam 1  |
 | 11      | 11.14 |  SciPy   |  | E8  | E7  |
 | 12      | 11.21 | Visualization  |  | E9  | E8  |
 | 13      | 11.28 | Geospatial Python  |  | Exam 2  | E9  |
@@ -146,6 +146,7 @@ All materials associated with this course are placed under the [Creative Commons
 [E5]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise05
 [E6]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise06
 [E7]: https://github.com/sjsrey/gis321f16collaboratory/tree/master/exercise07
+[E7 hints]: https://github.com/jlaura/GIS321/blob/master/condent/partI/numpy.ipynb
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
