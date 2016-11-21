@@ -86,9 +86,9 @@ Other readings to be assigned.
 | 8      | 10.24 | [Object orientation][oo], [pyproj][pyproj], [geojson][geojson]  |  | [E6][E6]  | E5  |
 | 9      | 10.31 | [shapely][shapely], Recap  |  | Exam 1  | E6  |
 | 10      | 11.07 | [NumPy][numpy]   |  | [E7][E7], [E7 hints][E7 hints]  | Exam 1  |
-| 11      | 11.14 |  SciPy   |  | E8  | E7  |
-| 12      | 11.21 | Visualization  |  | E9  | E8  |
-| 13      | 11.28 | Geospatial Python  |  | Exam 2  | E9  |
+| 11      | 11.14 |  [SciPy][numpy]   |  |   | E7  |
+| 12      | 11.21 | [Geospatial Python I][gspI]  | E8  |   |   |
+| 13      | 11.28 | Geospatial Python II |  | Exam 2  | E8  |
 |         | 12.05|    |  |         | Exam 2|
 
 
@@ -149,6 +149,7 @@ All materials associated with this course are placed under the [Creative Commons
 [E7 hints]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/numpy.ipynb
 [git I]: content/partI/git.md
 [git II]: https://github.com/pysal/pysal/wiki/GitHub-Standard-Operating-Procedures
+[gspI]: https://github.com/sjsrey/narsc16
 [jltdd]: https://github.com/jlaura/GIS321/blob/master/Wk_2/Week2.ipynb
 [op]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/operators.ipynb
 [seq]: https://github.com/sjsrey/gis321f16/blob/master/content/partI/sequences.ipynb
